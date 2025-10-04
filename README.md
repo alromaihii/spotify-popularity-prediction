@@ -86,7 +86,7 @@ To run this project, you need:
 Follow these steps to set up the environment:
 
 1. **Extract the Zip File:**
-   Unzip the submitted folder (29.zip) into your working directory.
+   Unzip the  folder into your working directory.
 
 2. **Set Up a Python Virtual Environment:**
    Set Up a Python Virtual Environment: Create and activate a virtual environment to isolate the project dependencies:
